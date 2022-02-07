@@ -1,4 +1,4 @@
-# Hell'oh world, it's me! 
+# Never stop learning 
 
 ## Who I am
 My name is Simone and I am an aeronautical engineer with a passion for technology
@@ -7,7 +7,7 @@ My name is Simone and I am an aeronautical engineer with a passion for technolog
 I am interested in data analysis and web design
 
 ## Learning
-I have a *Kaizen* mindset and I always want to learn something new! Now I am learning Python.
+I have a *Kaizen* mindset and I always want to learn something new!
 
 
 
